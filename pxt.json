@@ -1,0 +1,22 @@
+{
+    "name": "Klavier",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "servo": "*",
+        "pxt-seeed-temperature": "github:mkleinsb/pxt-seeed-temperature#v0.0.7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
